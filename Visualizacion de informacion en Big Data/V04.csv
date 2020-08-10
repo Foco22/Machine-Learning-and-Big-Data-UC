@@ -1,0 +1,241 @@
+Pais,Mes,Contagiados
+Estados Unidos,1,5230
+Estados Unidos,2,4785
+Estados Unidos,3,4217
+Estados Unidos,4,704
+Estados Unidos,5,8694
+Estados Unidos,6,1139
+Estados Unidos,7,8994
+Estados Unidos,8,8225
+Estados Unidos,9,1988
+Estados Unidos,10,7594
+Estados Unidos,11,2242
+Estados Unidos,12,2562
+España,1,6756
+España,2,7987
+España,3,3347
+España,4,4136
+España,5,6000
+España,6,6018
+España,7,5105
+España,8,7364
+España,9,8027
+España,10,4200
+España,11,6656
+España,12,4435
+Italia,1,8687
+Italia,2,2628
+Italia,3,2589
+Italia,4,8661
+Italia,5,2878
+Italia,6,3520
+Italia,7,9207
+Italia,8,1827
+Italia,9,4076
+Italia,10,8201
+Italia,11,6479
+Italia,12,9878
+Francia,1,7497
+Francia,2,8055
+Francia,3,819
+Francia,4,3162
+Francia,5,7688
+Francia,6,5005
+Francia,7,3252
+Francia,8,5760
+Francia,9,8614
+Francia,10,3453
+Francia,11,4327
+Francia,12,1500
+Alemania,1,4570
+Alemania,2,7861
+Alemania,3,9616
+Alemania,4,4547
+Alemania,5,656
+Alemania,6,9409
+Alemania,7,7475
+Alemania,8,6701
+Alemania,9,1334
+Alemania,10,4994
+Alemania,11,4271
+Alemania,12,2161
+Reino Unido,1,5368
+Reino Unido,2,2790
+Reino Unido,3,3239
+Reino Unido,4,1335
+Reino Unido,5,897
+Reino Unido,6,5779
+Reino Unido,7,7183
+Reino Unido,8,8757
+Reino Unido,9,7251
+Reino Unido,10,2504
+Reino Unido,11,5622
+Reino Unido,12,8078
+Rusia,1,4808
+Rusia,2,3773
+Rusia,3,1014
+Rusia,4,5425
+Rusia,5,2195
+Rusia,6,9877
+Rusia,7,4575
+Rusia,8,6327
+Rusia,9,9582
+Rusia,10,8208
+Rusia,11,8982
+Rusia,12,4546
+China,1,6151
+China,2,4392
+China,3,8404
+China,4,3387
+China,5,4901
+China,6,5681
+China,7,9913
+China,8,1371
+China,9,1686
+China,10,1034
+China,11,2528
+China,12,7932
+México,1,126
+México,2,2963
+México,3,359
+México,4,7389
+México,5,6024
+México,6,1118
+México,7,6703
+México,8,6019
+México,9,7105
+México,10,4572
+México,11,4508
+México,12,9278
+Japón,1,8869
+Japón,2,1567
+Japón,3,3468
+Japón,4,4798
+Japón,5,6620
+Japón,6,2417
+Japón,7,9783
+Japón,8,7490
+Japón,9,7088
+Japón,10,4265
+Japón,11,7684
+Japón,12,9652
+Chile,1,9822
+Chile,2,5186
+Chile,3,8519
+Chile,4,9866
+Chile,5,8764
+Chile,6,7467
+Chile,7,1126
+Chile,8,7818
+Chile,9,7156
+Chile,10,2518
+Chile,11,4432
+Chile,12,4332
+Argentina,1,2977
+Argentina,2,1145
+Argentina,3,3821
+Argentina,4,4301
+Argentina,5,6203
+Argentina,6,4158
+Argentina,7,3005
+Argentina,8,5104
+Argentina,9,5167
+Argentina,10,9483
+Argentina,11,5247
+Argentina,12,3298
+Corea,1,9615
+Corea,2,6021
+Corea,3,3048
+Corea,4,3129
+Corea,5,9979
+Corea,6,1240
+Corea,7,9753
+Corea,8,3333
+Corea,9,3022
+Corea,10,9890
+Corea,11,5293
+Corea,12,2117
+Portugal,1,2821
+Portugal,2,1855
+Portugal,3,9262
+Portugal,4,3363
+Portugal,5,9083
+Portugal,6,8760
+Portugal,7,1512
+Portugal,8,8099
+Portugal,9,9803
+Portugal,10,5264
+Portugal,11,4228
+Portugal,12,5368
+India,1,2359
+India,2,1427
+India,3,4678
+India,4,2129
+India,5,6735
+India,6,1924
+India,7,1189
+India,8,6031
+India,9,4008
+India,10,1026
+India,11,8294
+India,12,2098
+Madagascar,1,6543
+Madagascar,2,8033
+Madagascar,3,5424
+Madagascar,4,7103
+Madagascar,5,5721
+Madagascar,6,2398
+Madagascar,7,8639
+Madagascar,8,4836
+Madagascar,9,5667
+Madagascar,10,5738
+Madagascar,11,5132
+Madagascar,12,1840
+Canadá,1,3333
+Canadá,2,783
+Canadá,3,4789
+Canadá,4,1627
+Canadá,5,1580
+Canadá,6,613
+Canadá,7,2150
+Canadá,8,2707
+Canadá,9,8552
+Canadá,10,2744
+Canadá,11,6525
+Canadá,12,2665
+Ecuador,1,9871
+Ecuador,2,2506
+Ecuador,3,1496
+Ecuador,4,2862
+Ecuador,5,6745
+Ecuador,6,1987
+Ecuador,7,3015
+Ecuador,8,5574
+Ecuador,9,6422
+Ecuador,10,1294
+Ecuador,11,7017
+Ecuador,12,3393
+Camerún,1,1425
+Camerún,2,2702
+Camerún,3,8969
+Camerún,4,3599
+Camerún,5,3512
+Camerún,6,8660
+Camerún,7,1329
+Camerún,8,5322
+Camerún,9,7820
+Camerún,10,2116
+Camerún,11,4508
+Camerún,12,1405
+Guinea,1,2603
+Guinea,2,1586
+Guinea,3,6838
+Guinea,4,1357
+Guinea,5,6087
+Guinea,6,8301
+Guinea,7,7004
+Guinea,8,9012
+Guinea,9,1857
+Guinea,10,3512
+Guinea,11,8506
+Guinea,12,5942
