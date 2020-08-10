@@ -1,0 +1,131 @@
+género,año,cantidad
+acción,2010,11
+acción,2011,14
+acción,2012,22
+acción,2013,11
+acción,2014,12
+acción,2015,15
+acción,2016,20
+acción,2017,24
+acción,2018,22
+acción,2019,21
+aventura,2010,11
+aventura,2011,20
+aventura,2012,15
+aventura,2013,22
+aventura,2014,21
+aventura,2015,6
+aventura,2016,11
+aventura,2017,8
+aventura,2018,13
+aventura,2019,16
+comedia,2010,12
+comedia,2011,17
+comedia,2012,18
+comedia,2013,23
+comedia,2014,22
+comedia,2015,8
+comedia,2016,15
+comedia,2017,14
+comedia,2018,21
+comedia,2019,12
+drama,2010,27
+drama,2011,8
+drama,2012,11
+drama,2013,12
+drama,2014,13
+drama,2015,21
+drama,2016,21
+drama,2017,13
+drama,2018,5
+drama,2019,25
+terror,2010,8
+terror,2011,3
+terror,2012,26
+terror,2013,10
+terror,2014,6
+terror,2015,26
+terror,2016,10
+terror,2017,11
+terror,2018,20
+terror,2019,25
+musical,2010,12
+musical,2011,5
+musical,2012,24
+musical,2013,25
+musical,2014,10
+musical,2015,6
+musical,2016,15
+musical,2017,3
+musical,2018,15
+musical,2019,4
+ciencia ficción,2010,18
+ciencia ficción,2011,18
+ciencia ficción,2012,6
+ciencia ficción,2013,14
+ciencia ficción,2014,5
+ciencia ficción,2015,19
+ciencia ficción,2016,10
+ciencia ficción,2017,25
+ciencia ficción,2018,24
+ciencia ficción,2019,23
+guerras,2010,16
+guerras,2011,18
+guerras,2012,19
+guerras,2013,3
+guerras,2014,12
+guerras,2015,21
+guerras,2016,8
+guerras,2017,16
+guerras,2018,20
+guerras,2019,18
+oeste,2010,23
+oeste,2011,15
+oeste,2012,9
+oeste,2013,25
+oeste,2014,23
+oeste,2015,16
+oeste,2016,19
+oeste,2017,11
+oeste,2018,8
+oeste,2019,5
+crimen,2010,11
+crimen,2011,8
+crimen,2012,13
+crimen,2013,12
+crimen,2014,5
+crimen,2015,18
+crimen,2016,10
+crimen,2017,8
+crimen,2018,25
+crimen,2019,17
+animada,2010,26
+animada,2011,20
+animada,2012,0
+animada,2013,3
+animada,2014,3
+animada,2015,3
+animada,2016,27
+animada,2017,9
+animada,2018,13
+animada,2019,20
+romance,2010,8
+romance,2011,30
+romance,2012,14
+romance,2013,13
+romance,2014,22
+romance,2015,1
+romance,2016,0
+romance,2017,16
+romance,2018,2
+romance,2019,27
+mundo mágico,2010,3
+mundo mágico,2011,6
+mundo mágico,2012,13
+mundo mágico,2013,19
+mundo mágico,2014,24
+mundo mágico,2015,29
+mundo mágico,2016,30
+mundo mágico,2017,11
+mundo mágico,2018,22
+mundo mágico,2019,15
